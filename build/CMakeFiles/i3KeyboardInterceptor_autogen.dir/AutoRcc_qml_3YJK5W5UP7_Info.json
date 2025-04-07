@@ -1,0 +1,20 @@
+{
+	"BUILD_DIR" : "/home/anuj/project/i3/build/i3KeyboardInterceptor_autogen",
+	"CMAKE_BINARY_DIR" : "/home/anuj/project/i3/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/anuj/project/i3/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/anuj/project/i3",
+	"CMAKE_SOURCE_DIR" : "/home/anuj/project/i3",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/anuj/project/i3/build/i3KeyboardInterceptor_autogen/include",
+	"INPUTS" : [ "/home/anuj/project/i3/qml/main.qml" ],
+	"LOCK_FILE" : "/home/anuj/project/i3/build/CMakeFiles/i3KeyboardInterceptor_autogen.dir/AutoRcc_qml_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/anuj/project/i3/build/CMakeFiles/i3KeyboardInterceptor_autogen.dir/AutoRcc_qml_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/anuj/project/i3/resources/qml.qrc",
+	"VERBOSITY" : 0
+}

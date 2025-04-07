@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "i3KeyboardInterceptor",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "i3KeyboardInterceptor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-i3KeyboardInterceptor-7f66d4a6e092c082733d.json",
+					"name" : "i3KeyboardInterceptor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "i3KeyboardInterceptor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-i3KeyboardInterceptor_autogen-64ca4ee056e3bc8cd249.json",
+					"name" : "i3KeyboardInterceptor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "i3KeyboardInterceptor_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-i3KeyboardInterceptor_autogen_timestamp_deps-53136b6f7de7789e6ea4.json",
+					"name" : "i3KeyboardInterceptor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anuj/project/i3/build",
+		"source" : "/home/anuj/project/i3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

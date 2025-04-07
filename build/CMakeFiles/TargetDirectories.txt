@@ -1,0 +1,5 @@
+/home/anuj/project/i3/build/CMakeFiles/i3KeyboardInterceptor.dir
+/home/anuj/project/i3/build/CMakeFiles/edit_cache.dir
+/home/anuj/project/i3/build/CMakeFiles/rebuild_cache.dir
+/home/anuj/project/i3/build/CMakeFiles/i3KeyboardInterceptor_autogen_timestamp_deps.dir
+/home/anuj/project/i3/build/CMakeFiles/i3KeyboardInterceptor_autogen.dir
